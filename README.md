@@ -6,3 +6,5 @@ this is hello word
     u change but noot commit  -->
 <!-- git add 
 git add nameoffile -->
+
+i'm just text dude
